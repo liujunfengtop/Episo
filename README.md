@@ -1,0 +1,2 @@
+# Episo-quantify Epitranscriptomal RNA m5c at isoform level
+Episo consists of three tools, named mapper, quant and Bisulfitefq, for mapping, quantifying, and simulating RNA-BisSeq data, respectively. Episo needs a working version of Perl and it is run from the command line. Meanwhile, Bowtie, Tophat and Cufflinks need to be installed on your computer. First you need to download a transcript annotation file from the Ensembl or NCBI websites. Episo supports the reference trancriptom sequence files in FastA format, allowed file extensions are either .fa or .fasta.
